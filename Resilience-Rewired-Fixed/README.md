@@ -19,7 +19,7 @@ You do not need Python, a server, or a build tool.
 * `scripts/`: data generation and test scripts
 * `integrations/`: sample SQL for Tiger Data and Snowflake
 
-Changes to the HTML, CSS and JavaScript files appear the next time you refresh the page.
+Changes to the HTML, CSS and JavaScript files when a current page is refreshed.
 If you change any JSON file, regenerate the local data script with:
 
 ```
